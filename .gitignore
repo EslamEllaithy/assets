@@ -1,0 +1,20 @@
+# Ignore everything in the repo (files and folders)
+/
+
+# Allow this .gitignore itself
+!.gitignore
+
+# Allow ONLY root-level docs
+!/*.md
+!/*.markdown
+!/*.txt
+!/*.pdf
+
+# Allow ONLY root-level images
+!/*.png
+!/*.jpg
+!/*.jpeg
+!/*.gif
+!/*.svg
+!/*.webp
+!/*.ico
